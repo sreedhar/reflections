@@ -1,0 +1,3 @@
+How can you use the staging area to make sure you have one commit per logical change?
+Even though more than one logical change can be made at a time, only files related 
+to one change could be staged and committed in a single commit
