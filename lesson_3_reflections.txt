@@ -1,2 +1,7 @@
 Notes from lesson 3.
 This file is created directly on github.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Because there could be other's working with the same repo on github, and it would create a conflict if the changes were pushed automatically.
+
